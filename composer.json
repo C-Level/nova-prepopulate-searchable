@@ -1,11 +1,11 @@
 {
-    "name": "mustafatoker/nova-prepopulate-searchable",
+    "name": "clevel/nova-prepopulate-searchable",
     "description": "A tool to allow BelongsTo searchable fields to be pre-populated with data",
     "keywords": [
         "laravel",
         "nova"
     ],
-    "homepage": "https://github.com/mustafatoker/nova-prepopulate-searchable",
+    "homepage": "https://github.com/C-Level/nova-prepopulate-searchable",
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
